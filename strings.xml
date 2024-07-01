@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="button01">Снять видео</string>
+    <string name="button02">Загрузить видео</string>
+</resources>
